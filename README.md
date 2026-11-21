@@ -177,9 +177,8 @@ FLUSH PRIVILEGES;</code></pre>
 
 <h3>3. Download and install</h3>
 
-<pre><code>git clone &lt;repo-url&gt;
+<pre><code>git clone https://github.com/uLtRoNiX11/spm
 cd spm
-
 pip install mysql-connector-python</code></pre>
 
 <h3>4. Configure</h3>
